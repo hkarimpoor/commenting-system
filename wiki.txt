@@ -11,7 +11,8 @@ display number of comment on page load limitation
 display number of replies on page load
 mentining system 
 adding emogi , sticker or gif in comment text
-scanning comment text for banding words ordeterrence 
+scanning comment text for banding words or deterrence 
+hide or remove violence or banded words in comment text
 translate comment text 
 AI using to suggest words for comment text 
 Not displaying already reported comments 
@@ -22,4 +23,4 @@ loadig status on any actions ( add comment , report , ..)
 proper success or error message for any action ( adding comment , deleting , reporting , ...)
 user name , avatar , timestamp 
 make sure each comment has uniqe ID across the whole page (combine comment ID from server and random string or sufix , )
-
+default avatar image 
