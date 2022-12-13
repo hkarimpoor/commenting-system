@@ -21,4 +21,5 @@ skeleton loading animation on page loading
 loadig status on any actions ( add comment , report , ..)
 proper success or error message for any action ( adding comment , deleting , reporting , ...)
 user name , avatar , timestamp 
+make sure each comment has uniqe ID across the whole page (combine comment ID from server and random string or sufix , )
 

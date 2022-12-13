@@ -1,0 +1,14 @@
+.container {
+    padding: 0 2rem;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.avatar_section {
+
+}
+.content_section {
+
+}
