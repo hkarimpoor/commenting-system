@@ -1,0 +1,24 @@
+like 
+dislike 
+report 
+delete
+sort
+reply ( depth limitation)
+lazy load ing or pagination for main cmments and replies 
+comment text char counter 
+larg comment text
+display number of comment on page load limitation 
+display number of replies on page load
+mentining system 
+adding emogi , sticker or gif in comment text
+scanning comment text for banding words ordeterrence 
+translate comment text 
+AI using to suggest words for comment text 
+Not displaying already reported comments 
+prevent spamming ( like or dislike several time in limited time , reported repeatedly )
+securities concerns ( escaping comment text, xss , ..) 
+skeleton loading animation on page loading 
+loadig status on any actions ( add comment , report , ..)
+proper success or error message for any action ( adding comment , deleting , reporting , ...)
+user name , avatar , timestamp 
+
